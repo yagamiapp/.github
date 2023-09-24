@@ -1,1 +1,1 @@
-# ![Yagami Banner](https://i.imgur.com/YRiIrgs.png)
+This repo hold the README.md file for the main page of the yagami organization.
